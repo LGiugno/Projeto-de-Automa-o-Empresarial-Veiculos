@@ -1,0 +1,21 @@
+# Credenciais e segredos
+.env
+credentials.json
+config.json
+
+# Binários
+*.exe
+*.rar
+dist/
+build/
+*.spec
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# SO
+.DS_Store
+Thumbs.db
