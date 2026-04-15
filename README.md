@@ -1,6 +1,6 @@
 # Robô Fechamento Veic/Maq - MultiA
 
-Automação de fechamento de laudos de **veículos e máquinas** para os sistemas **MultiA Mais** e **MultiA Avaliações**. Lê dados de uma planilha Google Sheets, envia comparativos via API REST e atualiza automaticamente todos os campos da avaliação — tudo em segundo plano, sem abrir navegador.
+Automação de fechamento de laudos de **veículos e máquinas** para os sistemas **MultiA Mais** e **MultiA Avaliações**. Lê dados de uma planilha Google Sheets, envia comparativos via API REST e atualiza automaticamente todos os campos da avaliação, tudo em segundo plano, sem abrir navegador.
 
 ---
 
